@@ -59,7 +59,7 @@ Una clase que representa un panel que contiene múltiples Blockobjetos. Proporci
 
 Muestra el laberinto visualmente y maneja la interacción del usuario para seleccionar bloques y modificar el laberinto.
 
-## Principal
+### Principal
 
 la clase Principal desempeña un papel central en la coordinación y gestión de varios componentes para proporcionar la interfaz de usuario y las funcionalidades para crear y editar laberintos. Define métodos como: 
 - start(Stage stage): este método se invoca cuando se inicia la aplicación. Configura la ventana principal, crea el diseño de la interfaz de usuario utilizando componentes como BorderPane, y muestra la ventana BlocksPanel MazeCanvas y MenuBar.
