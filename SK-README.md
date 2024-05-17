@@ -68,7 +68,6 @@ la clase Principal desempeña un papel central en la coordinación y gestión de
 - createMenu(): Crea la barra de menú en la parte superior de la ventana con opciones para Archivo (Nuevo, Guardar, Abrir), Opciones (Sonido, Hora) y Salir.
 
 
-
 ## Funcionalidades.
 
 - Creación del laberinto: : Definir el tamaño del laberinto y utilizar la paleta de bloques para colocarlos en el lienzo.
